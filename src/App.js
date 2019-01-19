@@ -44,7 +44,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            This should be a super cool React and Shopify shop, but it's just a boilerplate from <a href="https://medium.com/siren-apparel-press/adding-shopifys-storefront-api-to-an-existing-react-app-with-react-redux-ea442bd7543" target="blank" rel="no ref no oper">this post Medium post</a>.
+            vix super cool storefront-api playground
           </p>
         </header>
         <Cart
