@@ -10,8 +10,8 @@ import './styles/shopify.css';
 
 // build shopify client
 const client = Client.buildClient({
-    storefrontAccessToken: 'dfe36e96a80046885f8167d102f063e9',
-    domain: 'api-test-store-vix.myshopify.com'
+    storefrontAccessToken: 'b0ce81d4056a180c1e5e754a11f58dbb',
+    domain: 'musles-apparel.myshopify.com'
 });
 store.dispatch({type: 'CLIENT_CREATED', payload: client});
 
